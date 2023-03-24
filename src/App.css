@@ -1,0 +1,8 @@
+.my-form{
+  max-width: 400px;
+  border: 2px solid black;
+  position: relative;
+  top: 100px;
+  left: 25%;
+  padding: 50px;
+}
