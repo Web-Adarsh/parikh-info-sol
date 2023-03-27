@@ -39,6 +39,9 @@ export default function Form() {
           <label htmlFor="exampleInputEmail1" className="form-label">
             Email address
           </label>
+          <label htmlFor="exampleInputEmail1" className="form-label">
+            Email address
+          </label>
           <input
             type="email"
             name="email"
